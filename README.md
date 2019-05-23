@@ -1,0 +1,2 @@
+# CompileAnyVersionPython
+-It works for any python .py file (not tested for .py files prior to python2) because it uses the built in python module “py_compile” depending on PYTHONHOME -You can have the pycomp folder be located anywhere and it will still work (e.g. the desktop, c drive, doesn’t matter.) -Tells you if the input folder is empty -Tells you if the output folder is not an existing directory -Tells you what version of python you’re compiling -Tells you if the input is not an existing file or directory
