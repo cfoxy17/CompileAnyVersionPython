@@ -6,6 +6,11 @@
 
 ----------------------------------------------------------------------------
 
+1. Unzip pycomp.zip and put the resulting "pycomp" folder anywhere on your computer.
+2. Call pycomp.bat using any of the 5 ways below
+
+----------------------------------------------------------------------------
+
 pycomp.bat can be called in any of the following 5 ways:
 
 1.	you put your .py files in the Input folder & double click pycomp.bat
