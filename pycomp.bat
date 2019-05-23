@@ -16,6 +16,8 @@ goto BadExit
 
 
 :CallPython
+REM below line enables pycomp.bat to be called from command line anywhere, as long as pycomp folder is added to PATH system variable
+pushd %~dp0
 REM below line has effect of printing a blank line to the screen
 echo( 
 echo PYTHONHOME: %PYTHONHOME%
