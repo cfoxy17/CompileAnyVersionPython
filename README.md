@@ -4,15 +4,8 @@
 
 -You can have the pycomp folder be located anywhere and it will still work (e.g. the desktop, c drive, doesn’t matter.) 
 
--Tells you if the input folder is empty 
-
--Tells you if the output folder is not an existing directory 
-
--Tells you what version of python you’re compiling 
-
--Tells you if the input is not an existing file or directory
-
 ----------------------------------------------------------------------------
+
 pycomp.bat can be called in any of the following 5 ways:
 
 1.	you put your .py files in the Input folder & double click pycomp.bat
